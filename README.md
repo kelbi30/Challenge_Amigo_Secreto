@@ -17,4 +17,4 @@ La aplicación consta de un formulario donde puedes ingresar nombres de amigos y
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone 
+   git clone https://kelbi30.github.io/Challenge_Amigo_Secreto/
